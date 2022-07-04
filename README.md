@@ -1,6 +1,6 @@
 # cryptoMarket
 
-Copy the files in the folder of React Native project directory. Open the terminal in the directory and run the command lines below.
+Copy the files to the folder of React Native project directory. Open the terminal in the directory and run the command lines below.
 
     npm install @react-navigation/native
     npm install react-native-screens react-native-safe-area-context
